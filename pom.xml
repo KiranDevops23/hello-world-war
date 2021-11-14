@@ -28,8 +28,8 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>Maven2</name>
-        <url>http://18.219.156.51:8081/repository/maven2/</url>
+        <name>Maven1</name>
+        <url>http://18.219.156.51:8081/repository/maven1/</url>
         </repository>
         </distributionManagement>
 	</project>
