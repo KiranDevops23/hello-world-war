@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.efsavage</groupId>
 	<artifactId>hello-world-war</artifactId>
-	<version>1.0.0</version>
+	<version>3.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
@@ -28,8 +28,8 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>Maven</name>
-        <url>http://18.219.156.51:8081/repository/maven/</url>
+        <name>Maven2</name>
+        <url>http://18.219.156.51:8081/repository/maven2/</url>
         </repository>
         </distributionManagement>
 	</project>
